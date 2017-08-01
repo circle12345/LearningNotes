@@ -152,3 +152,6 @@ public class SampleActivity extends Activity {
 
 [http://www.jianshu.com/p/cb9b4b71a820](http://www.jianshu.com/p/cb9b4b71a820)
 >>>>>>> c67abfcfd66909095068cb5f0c8632dc5547131b
+
+另一片好文：
+http://www.cnblogs.com/liyiran/p/5228771.html
