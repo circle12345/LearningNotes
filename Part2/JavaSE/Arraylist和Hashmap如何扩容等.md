@@ -8,3 +8,6 @@
 
 
 #如何保证读写进程安全？
+
+ArrayList的底层扩容原理。
+https://zhuanlan.zhihu.com/p/27878015
