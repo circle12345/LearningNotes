@@ -18,3 +18,8 @@ Map是一个映射接口，其中的每个元素都是一个key-value键值对�
 Iterator是遍历集合的迭代器（不能遍历Map，只用来遍历Collection），Collection的实现类都实现了iterator()函数，它返回一个Iterator对象，用来遍历集合，ListIterator则专门用来遍历List。而Enumeration则是JDK1.0时引入的，作用与Iterator相同，但它的功能比Iterator要少，它只能再Hashtable、Vector和Stack中使用。
 
  Arrays和Collections是用来操作数组、集合的两个工具类，例如在ArrayList和Vector中大量调用了Arrays.Copyof()方法，而Collections中有很多静态方法可以返回各集合类的synchronized版本，即线程安全的版本，当然了，如果要用线程安全的结合类，首选Concurrent并发包下的对应的集合类。
+ 
+ 关于java集合的博客讲解
+ http://blog.csdn.net/he90227/article/details/38061087
+ http://blog.csdn.net/he90227/article/details/37699937
+ http://blog.csdn.net/column/details/15044.html?&page=2
